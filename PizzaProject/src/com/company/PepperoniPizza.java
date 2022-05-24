@@ -1,8 +1,8 @@
 package com.company;
 
-public class CheesePizza extends Pizza {
-    public CheesePizza() {
-        name = "Cheese pizza";
+public class PepperoniPizza extends Pizza {
+    public PepperoniPizza() {
+        name = "Pepperoni pizza";
         dough = "Thin Crust Dough";
         sauce = "Marinara Sauce";
 
